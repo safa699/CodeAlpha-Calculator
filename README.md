@@ -47,7 +47,7 @@ This project was created as **Task 2 – Build a Calculator** for the **CodeAlph
 
 ## 👩‍💻 Developer
 
-**Safa Malik**
+**Safa Waseem**
 
 BS Computer Science Student
 
