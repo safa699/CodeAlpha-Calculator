@@ -41,13 +41,6 @@ CodeAlpha_Calculator/
 3. Double-click **index.html** or open it with **Live Server** in Visual Studio Code.
 4. Start performing calculations.
 
-## 📸 Project Preview
-
-To add a screenshot, first place your image inside the `assets` folder and then use the following markdown:
-
-```md
-![CodeAlpha Calculator Screenshot](./CodeAlpha_Calculator/assets/calculatorr.png)
-```
 ## 🎯 Internship Information
 
 This project was created as **Task 2 – Build a Calculator** for the **CodeAlpha Frontend Development Internship Program**.
