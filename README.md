@@ -46,7 +46,7 @@ CodeAlpha_Calculator/
 To add a screenshot, first place your image inside the `assets` folder and then use the following markdown:
 
 ```md
-![CodeAlpha Calculator Screenshot](./assets/calculatorr-screenshot.png)
+![CodeAlpha Calculator Screenshot](./assets/calculatorr.png)
 ```
 ## 🎯 Internship Information
 
